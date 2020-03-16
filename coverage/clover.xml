@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1584401394983" clover="3.2.0">
+  <project timestamp="1584401394983" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="0" methods="4" coveredmethods="4" elements="21" coveredelements="18" complexity="0" loc="14" ncloc="14" packages="2" files="3" classes="3"/>
+    <package name="lib">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="app.js" path="/Users/hannahriley/alchemy/career-track/http-lab/lib/app.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="lib.utils">
+      <metrics statements="6" coveredstatements="6" conditionals="3" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="createResponse.js" path="/Users/hannahriley/alchemy/career-track/http-lab/lib/utils/createResponse.js">
+        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="cond" truecount="0" falsecount="3"/>
+        <line num="2" count="2" type="stmt"/>
+      </file>
+      <file name="parseRequest.js" path="/Users/hannahriley/alchemy/career-track/http-lab/lib/utils/parseRequest.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
