@@ -1,41 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1584402601271" clover="3.2.0">
-  <project timestamp="1584402601271" name="All files">
-    <metrics statements="20" coveredstatements="17" conditionals="9" coveredconditionals="3" methods="4" coveredmethods="4" elements="33" coveredelements="24" complexity="0" loc="20" ncloc="20" packages="2" files="3" classes="3"/>
-    <package name="lib">
-      <metrics statements="14" coveredstatements="11" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="2"/>
-      <file name="app.js" path="/Users/hannahriley/alchemy/career-track/http-lab/lib/app.js">
-        <metrics statements="14" coveredstatements="11" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="2"/>
-        <line num="1" count="1" type="stmt"/>
-        <line num="2" count="1" type="stmt"/>
-        <line num="3" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="7" count="1" type="stmt"/>
-        <line num="8" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="18" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="29" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="30" count="0" type="stmt"/>
-        <line num="41" count="1" type="stmt"/>
-        <line num="45" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="lib.utils">
-      <metrics statements="6" coveredstatements="6" conditionals="3" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <file name="createResponse.js" path="/Users/hannahriley/alchemy/career-track/http-lab/lib/utils/createResponse.js">
-        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="1" count="2" type="cond" truecount="0" falsecount="3"/>
-        <line num="2" count="2" type="stmt"/>
-      </file>
-      <file name="parseRequest.js" path="/Users/hannahriley/alchemy/career-track/http-lab/lib/utils/parseRequest.js">
-        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="30" count="2" type="stmt"/>
-        <line num="31" count="3" type="stmt"/>
-        <line num="32" count="3" type="stmt"/>
-        <line num="33" count="3" type="stmt"/>
-      </file>
-    </package>
+<coverage generated="1584405769704" clover="3.2.0">
+  <project timestamp="1584405769704" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="3" coveredconditionals="0" methods="2" coveredmethods="2" elements="11" coveredelements="8" complexity="0" loc="6" ncloc="6" packages="1" files="2" classes="2"/>
+    <file name="createResponse.js" path="/Users/hannahriley/alchemy/career-track/http-lab/lib/utils/createResponse.js">
+      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="0" falsecount="3"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+    <file name="parseRequest.js" path="/Users/hannahriley/alchemy/career-track/http-lab/lib/utils/parseRequest.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+    </file>
   </project>
 </coverage>
